@@ -1,0 +1,22 @@
+body{
+    background-color: khaki;
+}
+.contain{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg,#d41e31,#491f8f);
+    
+}
+.uploadform{
+    width: 500px;
+    height: 550px;
+    background-color: aliceblue;
+    padding-left: 5%;
+    padding-top: 2%;
+    border-radius: 20px;
+    /* background: linear-gradient(135deg,#d41e31,#491f8f); */
+    background-image: url('../images/flowers.jpg');
+}

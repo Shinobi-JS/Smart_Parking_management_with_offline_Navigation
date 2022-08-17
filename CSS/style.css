@@ -1,0 +1,55 @@
+.scan{
+    height: 20vh;
+    width: 100%;
+    color:blueviolet;
+    
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.scanButton{
+    border-radius: 15px;
+    width:90px;
+    height: 45px;
+    letter-spacing:2px;
+}
+body{
+    background-color: khaki;
+}
+.contain{
+    width: 50%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg,#d41e31,#491f8f);
+    margin-left:25%;
+    margin-top: 5%;
+    border-radius:30px;
+    padding-top:30px;
+    padding-bottom: 30px;
+
+    
+}
+.uploadform{
+    width: 500px;
+    height: 250px;
+    background-color: aliceblue;
+    padding-left: 5%;
+    padding-top: 2%;
+    border-radius: 20px;
+    /* background: linear-gradient(135deg,#d41e31,#491f8f); */
+   
+}
+.turbo{
+    color:rgb(0, 119, 255);
+    font-size: 25px;
+    margin-top: 12px;
+    padding-top:20px;
+    font-weight: bold;
+}
+.mybtn{
+    background-color: yellow;
+    border-radius: 20px;
+}
